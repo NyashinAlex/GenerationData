@@ -1,3 +1,5 @@
+package core;
+
 import com.github.javafaker.Faker;
 
 public class GenerationInn {
